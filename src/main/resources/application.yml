@@ -1,0 +1,7 @@
+crypto:
+  enabled: true
+  key: MyKey1
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
